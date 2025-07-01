@@ -1,8 +1,9 @@
 # app/calculator.py
 # this is siraj and this commit should get merged hopely 
+# this is test for wrong commit push hopely
 
 def add(a, b):
-    return a + b
+    return a + b+1 
 
 def subtract(a, b):
     return a - b
